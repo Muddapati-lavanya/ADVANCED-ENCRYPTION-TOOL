@@ -40,4 +40,14 @@ These files help validate the tool's correctness and are useful for submission a
 This project is a strong demonstration of combining theory with practical implementation. It showcases how cryptography can be applied to real-world problems using programming skills. The use of AES-256 ensures strong data protection, while the GUI enhances accessibility for non-technical users.
 The Advanced Encryption Tool is an excellent introduction to cybersecurity concepts like encryption, password hashing, and key management. It helps students build a foundation in secure software development and understand the critical importance of protecting digital data.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/6d28af5d-c935-42c6-8f10-0e47a5ee0478)
+
+![Image](https://github.com/user-attachments/assets/bcbc7c0b-cd79-408e-b4c5-72b485e29717)
+
+![Image](https://github.com/user-attachments/assets/b7b47e0c-6fd3-475c-98a6-d6bf1b8a09df)
+
+![Image](https://github.com/user-attachments/assets/8464a229-0b94-4ea4-b515-7b96f858a50b)
+
 
